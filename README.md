@@ -33,6 +33,7 @@ The project aims to address the following key performance indicators (KPIs):
 1. Download the .pbix file from this repository
 2. Open the file using Power BI Desktop
 3. Interact with the dashboard using the provided filters and visualizations
+4. Here is the report of analysis - [https://app.powerbi.com/groups/me/reports/f635fc42-1c32-4bd1-8108-235b2bd8bfdb/0f64cb630066ae6631d2?experience=power-bi]
 
 ## Key Insights
 1. Total Vehicles: 188 electric vehicles analyzed
