@@ -2,6 +2,7 @@
 A comprehensive Power BI dashboard analyzing electric vehicle population data in the United States
 
 ![EV Analysis Dashboard](./images/ev-analysis-dashboard.png)
+![EV Analysis Dashboard](https://github.com/user-attachments/assets/65413f55-a4fb-4676-9fbe-4a160338e9ca)
 
 # Electric Vehicle Analysis Dashboard
 
