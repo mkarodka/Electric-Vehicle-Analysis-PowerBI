@@ -35,7 +35,7 @@ The project aims to address the following key performance indicators (KPIs):
 3. Interact with the dashboard using the provided filters and visualizations
 
 ## Key Insights
-1. Total Vehicles: 188 electric vehicles analyzed
+1. Total Vehicles: 188K electric vehicles analyzed
 2. Average Electric Range: 61.12 km
 3. BEV Distribution: 66% of total vehicles (124K)
 4. PHEV Distribution: 34% of total vehicles (64K)
