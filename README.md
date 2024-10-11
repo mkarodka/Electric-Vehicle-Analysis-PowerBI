@@ -30,10 +30,9 @@ The project aims to address the following key performance indicators (KPIs):
 - Microsoft Excel
 
 ## How to Use
-1. Download the .pbix file from this repository
+1. Download the .pbix file from [https://app.powerbi.com/groups/me/reports/f635fc42-1c32-4bd1-8108-235b2bd8bfdb/0f64cb630066ae6631d2?experience=power-bi]
 2. Open the file using Power BI Desktop
 3. Interact with the dashboard using the provided filters and visualizations
-4. Here is the report of analysis - [https://app.powerbi.com/groups/me/reports/f635fc42-1c32-4bd1-8108-235b2bd8bfdb/0f64cb630066ae6631d2?experience=power-bi]
 
 ## Key Insights
 1. Total Vehicles: 188 electric vehicles analyzed
@@ -44,17 +43,3 @@ The project aims to address the following key performance indicators (KPIs):
 6. Top Models: Model Y (29K vehicles), Model 3 (19K), Leaf (11K)
 7. CAFV Eligibility: 80.09% of vehicles are eligible for CAFV status
 8. Geographical Concentration: Majority of vehicles concentrated in Washington state
-
-## Future Work
-- Incorporate time-series analysis for forecasting future EV adoption rates
-- Add more granular geographical analysis at the county or city level
-- Include cost analysis and comparison with traditional vehicles
-
-Total Vehicles: 188 electric vehicles analyzed
-Average Electric Range: 61.12 km
-BEV Distribution: 66% of total vehicles (124K)
-PHEV Distribution: 34% of total vehicles (64K)
-Top Manufacturer: Tesla leads with 25K vehicles
-Top Models: Model Y (29K vehicles), Model 3 (19K), Leaf (11K)
-CAFV Eligibility: 80.09% of vehicles are eligible for CAFV status
-Geographical Concentration: Majority of vehicles concentrated in Washington state
