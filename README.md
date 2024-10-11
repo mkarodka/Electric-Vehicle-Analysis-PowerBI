@@ -43,3 +43,11 @@ The project aims to address the following key performance indicators (KPIs):
 6. Top Models: Model Y (29K vehicles), Model 3 (19K), Leaf (11K)
 7. CAFV Eligibility: 80.09% of vehicles are eligible for CAFV status
 8. Geographical Concentration: Majority of vehicles concentrated in Washington state
+
+## Future Work
+- Incorporate time-series analysis for forecasting future EV adoption rates
+- Add more granular geographical analysis at the county or city level
+- Include cost analysis and comparison with traditional vehicles
+
+## Contact
+For any questions or feedback, please reach out to [Mugdha Karodkar] on [https://www.linkedin.com/in/mugdha-karodkar].
