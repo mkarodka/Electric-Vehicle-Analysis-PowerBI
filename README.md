@@ -30,7 +30,7 @@ The project aims to address the following key performance indicators (KPIs):
 - Microsoft Excel
 
 ## How to Use
-1. Download the .pbix file from [https://app.powerbi.com/groups/me/reports/f635fc42-1c32-4bd1-8108-235b2bd8bfdb/0f64cb630066ae6631d2?experience=power-bi]
+1. Download the .pbix file from [Power BI portal](https://app.powerbi.com/groups/me/reports/f635fc42-1c32-4bd1-8108-235b2bd8bfdb/0f64cb630066ae6631d2?experience=power-bi).
 2. Open the file using Power BI Desktop
 3. Interact with the dashboard using the provided filters and visualizations
 
@@ -50,4 +50,4 @@ The project aims to address the following key performance indicators (KPIs):
 - Include cost analysis and comparison with traditional vehicles
 
 ## Contact
-For any questions or feedback, please reach out to [Mugdha Karodkar] on [https://www.linkedin.com/in/mugdha-karodkar].
+For any questions or feedback, please reach out to [Mugdha Karodkar](https://www.linkedin.com/in/mugdha-karodkar).
