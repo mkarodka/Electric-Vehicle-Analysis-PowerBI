@@ -44,6 +44,13 @@ The project aims to address the following key performance indicators (KPIs):
 7. CAFV Eligibility: 80.09% of vehicles are eligible for CAFV status
 8. Geographical Concentration: Majority of vehicles concentrated in Washington state
 
+## Skills Demonstrated:
+1. Data Analysis
+2. Data Visualization
+3. Power BI
+4. Dashboard Design
+5. KPI Development and Tracking
+
 ## Future Work
 - Incorporate time-series analysis for forecasting future EV adoption rates
 - Add more granular geographical analysis at the county or city level
