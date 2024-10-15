@@ -1,7 +1,7 @@
 # Electric-Vehicle-Analysis-PowerBI
 A comprehensive Power BI dashboard analyzing electric vehicle population data in the United States
 
-![Electric Vehicle Analysis Dashboard](Coffee_Shop_Sales_Analysis.png)
+![Electric Vehicle Analysis Dashboard](ev_analysis_dashboard.png)
 
 ## Project Overview
 This Power BI project analyzes the electric vehicle (EV) population data in the United States, providing insights into the growth and distribution of EVs and plug-in hybrid electric vehicles (PHEVs).
