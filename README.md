@@ -11,18 +11,16 @@ The data is sourced from [Kaggle's Electric Vehicle Population Data](https://www
 
 ## Problem Statement
 The project aims to address the following key performance indicators (KPIs):
-1. Total Vehicles: Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
-2. Average Electric Range: Determine the average electric range of the vehicles to gauge technological advancements and efficiency.
-3. Total BEV Vehicles and % of Total BEV Vehicles: Identify and analyze the total number and percentage of Battery Electric Vehicles (BEVs) in the dataset.
-4. Total PHEV Vehicles and % of Total PHEV Vehicles: Identify and analyze the total number and percentage of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
+1. Total Vehicles: Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth
+2. Average Electric Range: Determine the average electric range of the vehicles to gauge technological advancements and efficiency
+3. Total BEV Vehicles and % of Total BEV Vehicles: Identify and analyze the total number and percentage of Battery Electric Vehicles (BEVs) in the dataset
+4. Total PHEV Vehicles and % of Total PHEV Vehicles: Identify and analyze the total number and percentage of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset
 
-## Key Features
-- Interactive dashboard with filters for City, Electric Utility, and Electric Vehicle Type
-- Visualizations for total vehicle count, average electric range, and BEV vs PHEV distribution
-- Time series analysis of EV adoption from 2010 to 2025
-- Geographical distribution of EVs across US states
-- Top 10 EV manufacturers and models
-- Clean Alternative Fuel Vehicle (CAFV) eligibility breakdown
+## Key Features and Impact
+1. Developed an interactive Power BI dashboard to analyze US electric vehicle population data, focusing on EV growth, BEV/PHEV distribution, and electric range
+2. Conducted geographical and time-series analysis, revealing a 61% increase in EV adoption from 2010 to 2022 and identifying regional growth trends
+3. Analyzed the top 10 EV manufacturers, with Tesla leading at 44% of total vehicles (90K vehicles), and found 55.59% CAFV eligibility for clean alternative fuel vehicles
+4. Implemented dynamic filters for city, electric utility, and vehicle type, enabling data-driven decisions and improved insights for industry stakeholders
 
 ## Technologies Used
 - Power BI
